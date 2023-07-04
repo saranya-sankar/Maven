@@ -23,6 +23,7 @@ public class ExcelRead {
 			System.out.println(cell.getNumericCellValue()+"\t\t\t");
 			break;
 			default:
+				//default
 			}
 			
 			
